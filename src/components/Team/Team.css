@@ -1,0 +1,13 @@
+.team-container {
+    display: flex;
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+    min-height: 100vh; /* Ensure full viewport height */
+    background-color: #1c1d29; /* Optional background color */
+  }
+  
+  .coming-soon {
+    color: #b1b2b3;
+    font-size: 3rem; /* Adjust font size as needed */
+    text-align: center;
+  }
